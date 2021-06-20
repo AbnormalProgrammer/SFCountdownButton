@@ -68,4 +68,4 @@ XCode 12.5。
 ## 作者联系方式
 参见作者介绍。
 ## 许可
-本控件遵循MIT许可，详情请见LICENSE。
+本控件遵循MIT许可，详情请见[LICENSE](https://github.com/AbnormalProgrammer/SFCountdownButton/raw/master/LICENSE)。
