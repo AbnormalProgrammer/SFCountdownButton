@@ -11,6 +11,7 @@ class ViewController: UIViewController,SFCountDownButtonProtocol {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        self.view.backgroundColor = .systemGray
         self.view.translatesAutoresizingMaskIntoConstraints = false
         self.view.addSubview(self.resendButton)
         NSLayoutConstraint.init(item: self.resendButton, attribute: .centerX, relatedBy: .equal, toItem: self.view, attribute: .centerX, multiplier: 1, constant: 0).isActive = true
