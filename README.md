@@ -1,6 +1,6 @@
 # 倒计时按钮(SFCountDownButton)
 ## 示例
-[示例](./resources/示例.gif)
+[示例](https://github.com/AbnormalProgrammer/SFCountdownButton/raw/master/resources/示例.gif)
 ## 它是什么？
 它是用来做倒计时的UI控件。
 ## 需求背景
