@@ -1,4 +1,5 @@
 # 倒计时按钮(SFCountDownButton)
+这是个用来倒计时的按钮。
 ## 示例
 ![示例](https://github.com/AbnormalProgrammer/SFCountdownButton/raw/master/resources/示例.gif)
 ## 它是什么？
@@ -27,6 +28,7 @@ internal var normalTitleColor:UIColor = .white/*正常状态下的标题颜色*/
 internal var selfObserver:Any?/*观察者*/
 ```
 ## 如何使用？
+源代码在source文件夹里面，请自行取用。
 1. 创建该控件对象。
 ```
 lazy private var resendButton:SFCountDownButton = {
